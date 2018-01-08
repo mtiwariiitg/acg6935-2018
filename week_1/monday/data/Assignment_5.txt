@@ -1,0 +1,6 @@
+Betty,22,banana
+John,24,apple
+Denise,78,orange
+Carl,44,apple
+Caroline,34,apple
+Thomas,18,banana

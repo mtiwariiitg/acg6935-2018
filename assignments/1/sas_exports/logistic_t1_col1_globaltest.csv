@@ -1,0 +1,4 @@
+Test,ChiSq,DF,ProbChiSq
+Likelihood Ratio,2468.9558,16,<.0001
+Score,2258.8110,16,<.0001
+Wald,1622.1986,16,<.0001
